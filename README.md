@@ -2,7 +2,7 @@
 
 A Todo list application where one can create multiple lists of todo items. Each list can have Todos added, edited, deleted, and marked complete. 
 
-This project is deployed using Zeit. You can find the deployed version here: [NEED_URL](NEED_URL)
+This project is deployed using Zeit. You can find the deployed version here: [dave-inden-redux-todo.now.sh](https://dave-inden-redux-todo.now.sh)
 
 This project is used as a portfolio piece for my work as a Software Developer. If you are interested in discussing this further with me please feel free to reach out on [Twitter](https://twitter.com/daveskull81) or on my [website](https://www.daveinden.com).
 
